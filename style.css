@@ -1,0 +1,37 @@
+h1 {font-size: xx-large;
+  text-align: center;
+  font-family: 'Times New Roman';
+
+}
+h2{
+  font-size: x-large;
+  text-align: center;
+  font-family: 'Times New Roman';
+ 
+}
+body {
+  color: rgb(255, 255, 255);
+  background-image: url('fundo.jpg');
+  background-repeat: repeat;
+  background-position: center;
+  background-size: 100%;
+  background-color: black;
+  font-weight: bold;
+  text-align: justify;
+  margin-left: 150px;
+  margin-right: 150px;
+  text-align: center;
+  font-family: "Comic Sans MS";
+}
+p {
+  text-align: center; 
+  color: rgb(247, 241, 241)
+}
+
+#foto{
+  display: flex;
+  justify-content: center;
+  border: 5px solid rgb(247, 241, 241);
+  margin-left: 203px;
+  margin-right: 203px;
+}
